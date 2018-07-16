@@ -1,0 +1,1 @@
+cmd_/media/woody/docs/code/linux_drivers/hello/hello.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /media/woody/docs/code/linux_drivers/hello/hello.ko /media/woody/docs/code/linux_drivers/hello/hello.o /media/woody/docs/code/linux_drivers/hello/hello.mod.o
