@@ -1,0 +1,1 @@
+cmd_/media/woody/docs/code/linux_drivers/parameter/book.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /media/woody/docs/code/linux_drivers/parameter/book.ko /media/woody/docs/code/linux_drivers/parameter/book.o /media/woody/docs/code/linux_drivers/parameter/book.mod.o
